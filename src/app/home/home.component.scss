@@ -1,0 +1,42 @@
+
+
+#home{
+  background-image: url("https://pbs.twimg.com/media/De3VhR5WsAMUlJZ.jpg");
+  background-repeat: no-repeat;
+  display: table;
+  position: relative;
+  background-size: cover;
+  width: 100%;
+  height: 95vh;
+
+}
+.landing-text{
+
+  text-align: center;
+  flex-direction: column;
+  margin-top: 150px;
+  padding-top: 30px;
+}
+.landing-text a{
+  border: 2px solid orangered;
+
+}
+.landing-text a:hover{
+  background-color: red;
+  border: 2px solid red;
+}
+
+
+.carousel-caption h1{
+
+}
+.padding{
+  padding: 80px 0;
+
+}
+.padding img{
+  width: 100%;
+}
+.container{
+  margin-top: 100px;
+}
